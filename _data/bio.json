@@ -7,7 +7,7 @@
     "email": "molokaiemillia@gmail.com",
     "phone": "",
     "website": "https://www.emillianoordhoek.com",
-    "summary": "I'm a seasoned business development professional on a mission to help an early stage green startup profit and thrive",
+    "summary": "I'm a seasoned business development professional on a mission to help an early stage green startup profit and thrive.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -40,11 +40,12 @@
   },
   "work": [
     {
-      "company": "CEO Northern Lights Studios",
+      "company": "Northern Lights Studios",
+      
       "position": "Business Development & Partnerships Manager",
       "website": "emillianoordhoek.com",
       "startDate": "2006-01-01",
-      "endDate": "Now",
+      "endDate": "Present",
       "summary": "Helping to strengthen and launch community-driven and volunteer-powered projects, develop, adopt meaningful community engagement strategies, and harness the power of the social web for social good. This work is guided by 13 years of prior experience working with community-based economic, environmental and energy initiatives in the Hawaiian Islands",
       "highlights": [
         "Consulting and stewarding emergency funding applications for green startups and non-profits in current COVID-19 crisis on available Small Business Association (SBA)emergency financial products",
