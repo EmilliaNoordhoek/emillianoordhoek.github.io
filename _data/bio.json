@@ -40,10 +40,9 @@
   },
   "work": [
     {
-      "company": "Northern Lights Studios",
-
+      "company": "<a href=https://emillianoordhoek.com>Northern Lights Studios</a>",
       "position": "Business Development & Partnerships Manager",
-      "website": "emillianoordhoek.com",
+      "website": "",
       "startDate": "2006-01-01",
       "endDate": "Present",
       "summary": "Helping to strengthen and launch community-driven and volunteer-powered projects; develop, and adopt meaningful community engagement strategies, and harness the power of the social web for social good. This work is guided by 13 years of prior experience working with community-based economic, environmental and energy initiatives in the Hawaiian Islands",
@@ -54,9 +53,9 @@
       ]
     },
     {
-      "company": "Sust`ainable Molokai",
+      "company": "<a href=https://sustainablemolokai.org>Sust`ainable Molokai</a>",
       "position": "Co-founder and Executive Director",
-      "website": "sustainablemolokai.org",
+      "website": "",
       "startDate": "2007-07-01",
       "endDate": "2019-11-01",
       "summary": "Built a financially sustainable organization from the ground up through creative fundraising, grant writing, and donor development; increased the annual budget 100% to $1,000,000 by the end of my tenure. ",
@@ -69,9 +68,9 @@
       ]
     },
     {
-      "company": "Habitat for Humanity",
+      "company": "<a href=https://themolokaidispatch.com/habitat-completes-first-grid-home/>Habitat for Humanity</a>",
       "position": "Sustainability and Business Director",
-      "website": "https://themolokaidispatch.com/habitat-completes-first-grid-home/",
+      "website": "",
       "startDate": "2006-11-01",
       "endDate": "2010-12-01",
       "summary": "Capitalized on the mission to build sustainable affordable housing by forming new business and brand partnerships, increasing annual budget to < $1.5 million",
@@ -82,9 +81,9 @@
       ]
     },
     {
-      "company": "Moloka‘i Arts Center,",
+      "company": "<a href=https://molokaiartscenter.org>Moloka‘i Arts Center</a>",
       "position": "President",
-      "website": "molokaiartscenter.org",
+      "website": "",
       "startDate": "2009-12-01",
       "endDate": "2016-09-01",
       "summary": "",
@@ -182,36 +181,36 @@
   "awards": [
     {
       "title": "Omidyar Fellowship-Forum of Fellows",
-      "date": "2014-Present",
+      "date": "2014 - Present",
       "awarder": "Hawaii",
       "summary": "Omidyar Fellows is an enduring and ongoing commitment to an active network of leaders and change-makers."
     },
     {
       "title": "Hawai’i Investment Ready-Cohort III",
-      "date": "2017-Present",
+      "date": "2017 - Present",
       "awarder": "Hawaii",
       "summary": "HIR is a two-year program designed for social ventures to better understand and scale their impact and business models, to implement their next level of growth."
     },
     {
       "title": "Hawai’i Alliance for Progressive Action",
       "date": "2015",
-      "awarder": "",
+      "awarder": "Hawaii",
       "summary": "The core of HAPA’s mission is to catalyze community empowerment and systemic change - a change that goes to the root of our social, economic and environmental injustices."
     }
   ],
   "publications": [
     {
-      "name": "Molokai Agriculture Assessment",
+      "name": "<a href=https://sustainablemolokai.org>Molokai Agriculture Assessment</a>",
       "publisher": "",
       "releaseDate": "2012",
-      "website": "sustainablemolokai.org",
+      "website": "",
       "summary": "Lead writer and researcher for the Molokai Agriculture Needs Assessment."
     },
     {
-      "name": "Molokai Energy Assessment",
+      "name": "<a href=https://sustainablemolokai.org>Molokai Energy Assessment</a>",
       "publisher": "",
       "releaseDate": "2014",
-      "website": "sustainablemolokai.org",
+      "website": "",
       "summary": "Lead researcher and academic oversight for the Molokai Energy Assessment."
     }
   ],
