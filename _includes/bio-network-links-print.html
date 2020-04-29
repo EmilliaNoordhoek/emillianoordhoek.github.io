@@ -1,0 +1,13 @@
+<!-- Used by theme-bio-builtin-1,2 -->
+
+{% if site.data.bio.basics.website %}
+  <p class="ui print-links"><i class="large home icon "></i>emillianoordhoek.com</p>
+{% endif %}
+
+{% if site.data.bio.basics.email %}
+<p class="ui print-links"><i class="large mail outline icon "></i>molokaiemillia@gmail.com</p>
+{% endif %}
+
+{% for entry in site.data.bio.basics.profiles %}
+     <p class="ui print-links"><i class="large {{ entry.network | downcase }} icon "></i>{{ entry.username }}</p>
+{% endfor %}
